@@ -1,0 +1,436 @@
+{
+ "profile": {
+  "name": "Gabriela Lopes",
+  "role": "Analista de marketing, designer gráfica e produtora publicitária",
+  "headline": "Crio campanhas, peças para varejo e conteúdo para mídias digitais, do briefing à arte-final.",
+  "bio": "Sou formada em Produção Publicitária pela FAIP e especialista em marketing, com dois MBAs: Marketing e Varejo (UCA) e Marketing e Mídias Digitais (UNIVEM).\n\nMinha base começou no curso técnico em Design e Games, onde aprendi composição, cor e narrativa visual. Hoje uno esse olhar de design com estratégia de marketing para criar peças que comunicam bem e vendem.",
+  "location": "Marília, SP",
+  "availability": "Disponível para projetos",
+  "photo": "/uploads/41846eb34df0d3e83c33c50a159adea9.jpg",
+  "photoCut": "/uploads/beb12bff5bbdccd6bc389e3cf1d6b5a6.webp",
+  "heroTag": "Design & Publicidade",
+  "heroYear": "2026",
+  "endTitle": "",
+  "endSub": ""
+ },
+ "contactTitle": "Vamos criar a próxima campanha?",
+ "education": [
+  {
+   "id": "e1",
+   "level": "Graduação",
+   "course": "Produção Publicitária",
+   "institution": "FAIP",
+   "period": "",
+   "notes": "Curso superior"
+  },
+  {
+   "id": "e2",
+   "level": "MBA",
+   "course": "Marketing e Varejo",
+   "institution": "UCA",
+   "period": "",
+   "notes": ""
+  },
+  {
+   "id": "e3",
+   "level": "MBA",
+   "course": "Marketing e Mídias Digitais",
+   "institution": "UNIVEM",
+   "period": "",
+   "notes": ""
+  },
+  {
+   "id": "e4",
+   "level": "Técnico",
+   "course": "Design e Games",
+   "institution": "",
+   "period": "",
+   "notes": "Curso técnico"
+  },
+  {
+   "id": "e5",
+   "level": "Curso livre",
+   "course": "Básico em Marketing",
+   "institution": "SENAC",
+   "period": "",
+   "notes": ""
+  }
+ ],
+ "experience": [
+  {
+   "id": "x1",
+   "company": "Vibromak Equipamentos",
+   "role": "Analista de Marketing Pleno",
+   "period": "fev. 2026 – atual",
+   "description": "Atuação estratégica e operacional em marketing, com responsabilidade por diferentes frentes de comunicação da empresa. Desenvolvimento de campanhas, criação e gestão de conteúdo para redes sociais, design gráfico e produção de materiais publicitários e institucionais.\n\nCriação de apresentações, materiais para eventos e apoio ao setor comercial e à comunicação interna. Uso de ferramentas de inteligência artificial para otimizar processos e desenvolver conteúdos e peças visuais. Participação no planejamento e na execução das ações de marketing, sempre alinhadas à identidade e aos objetivos da empresa."
+  },
+  {
+   "id": "x2",
+   "company": "Mênfis Marketing",
+   "role": "Gestora de contas",
+   "period": "jul. 2025 – nov. 2025",
+   "description": "Gestão de contas de clientes, com foco em redes sociais e marketing de mídias sociais."
+  },
+  {
+   "id": "x3",
+   "company": "Agência MF Play",
+   "role": "Designer gráfico",
+   "period": "jul. 2023 – fev. 2025",
+   "description": "Criação de peças para as marcas do Grupo MF Rural, como MF Rural, MF Leilões e MF Bank: campanhas, peças de leilão, redes sociais e material impresso. Atuação em design gráfico e marketing digital."
+  },
+  {
+   "id": "x4",
+   "company": "E-Adapt",
+   "role": "Social Media Designer",
+   "period": "out. 2022 – jun. 2023",
+   "description": "Criação de conteúdo para redes sociais, com design, copywriting e marketing digital."
+  },
+  {
+   "id": "x5",
+   "company": "Margi Parts",
+   "role": "Designer gráfico",
+   "period": "mar. 2020 – abr. 2022",
+   "description": "Design gráfico para a comunicação da empresa."
+  }
+ ],
+ "projects": [
+  {
+   "id": "edifica",
+   "title": "Vibromak na Edifica 2026",
+   "category": "Campanha",
+   "year": "2026",
+   "client": "Vibromak",
+   "formats": "Posts 1080×1440 em espanhol e vídeo vertical 9:16 (41 s)",
+   "description": "A Vibromak, empresa de equipamentos para construção civil de Marília (SP), participou pela primeira vez de um evento internacional: a Edifica 2026, feira de construção em Santiago, no Chile, de 20 a 22 de outubro.\n\nO desafio era apresentar a marca a um público novo, em outro idioma. Criei as peças em espanhol, anunciando a chegada da Vibromak ao Chile com as datas e o local da feira.\n\nO vídeo de chamada parte da ideia de que \"uma máquina pode viajar milhares de quilômetros\" e mostra o estoque, a operação e as pessoas por trás da marca até a assinatura final.",
+   "color": "peach",
+   "image": "/uploads/eeb9586038cc3aded18106f5ba0975fc.jpg",
+   "gallery": [
+    "/uploads/eeb9586038cc3aded18106f5ba0975fc.jpg",
+    "/uploads/49b6170da238f857bd862a689aead872.jpg",
+    "/uploads/d4daf671c97f91b8bbcb2151548f2998.jpg",
+    "/uploads/aa82346a82e80dfc33663e640ae2ba88.mp4"
+   ],
+   "link": "",
+   "example": false,
+   "summary": "Primeira feira internacional da Vibromak: campanha em espanhol e vídeo de chamada para a Edifica, no Chile.",
+   "coverColor": "#EE7A30",
+   "coverAccent": "#2B2B2B",
+   "coverTitle": "Edifica 2026",
+   "coverMode": ""
+  },
+  {
+   "id": "copa",
+   "title": "#TimeVibromak: campanha da Copa",
+   "category": "Campanha",
+   "year": "2026",
+   "client": "Vibromak",
+   "formats": "Três carrosséis para Instagram 1080×1440",
+   "description": "Durante a Copa do Mundo de 2026, a Vibromak aproveitou o clima do torneio para se aproximar do público nas redes sociais. A ideia foi transformar a marca num time, com a hashtag #TimeVibromak, usando a linguagem do álbum de figurinhas e do futebol. A campanha foi dividida em três carrosséis.\n\nEquipe Técnica Vibromak: a equipe comercial vira figurinha, com a camisa do Brasil, o nome e a região que atende, e uma figurinha dourada especial, a \"Extra sticker\".\n\nNosso time foi convocado: os equipamentos ganham as próprias figurinhas, da placa vibratória VK 85 à cortadora CPV 460, com a pergunta \"Qual figurinha falta para o seu álbum?\".\n\nNosso time foi escalado: os produtos entram em campo por posição, em cenas montadas num estádio. Régua vibratória no gol, VK 120 e CPV 460 na zaga, CPV 350 e compactador nas laterais, alisadora, motobomba e AF no meio-campo, e VK 85 com as bombas de ferro e de alumínio no ataque.",
+   "color": "peach",
+   "image": "/uploads/b88292220064300f82f8010710ccab75.jpg",
+   "gallery": [
+    "/uploads/b88292220064300f82f8010710ccab75.jpg",
+    "/uploads/9e0ae1a45642c55eb4a4b201a9f91a6e.jpg",
+    "/uploads/f749219f353a0c5762c75138b0c56ad3.jpg",
+    "/uploads/3083ab37f4ab37183506001088b0d47a.jpg",
+    "/uploads/abcbc2f007c6ed2a610bef0118e444b0.jpg",
+    "/uploads/eed74eb6ac4ca316b4eec527f98a5014.jpg",
+    "/uploads/3daba3a35e776aed84a79be3042c3f26.jpg",
+    "/uploads/34df1f174a58eeda5f4f58de43de2d5c.jpg",
+    "/uploads/d725fe01b89802fdfcb9873288b6998a.jpg",
+    "/uploads/6c305bbffb2fe0d2ae7ad9da958e85c1.jpg",
+    "/uploads/f99ef3c11b19b3099d3ea1628f4cbe11.jpg"
+   ],
+   "link": "",
+   "example": false,
+   "summary": "Álbum de figurinhas da Copa 2026 que transforma a equipe e os produtos da Vibromak num time.",
+   "coverColor": "#2E9E4F",
+   "coverAccent": "#F2C516",
+   "coverTitle": "#TimeVibromak",
+   "coverMode": ""
+  },
+  {
+   "id": "enafran",
+   "title": "Vibromak na ENAFRAN 2026",
+   "category": "Campanha",
+   "year": "2026",
+   "client": "Vibromak, com a Casa do Construtor",
+   "formats": "Posts 1080×1440 de produto com oferta, contagem regressiva em post e story animado",
+   "description": "A ENAFRAN 2026 é o evento da Casa do Construtor, rede de aluguel de equipamentos, realizado nos dias 27 e 28 de maio, na Expo D. Pedro, em Campinas (SP). Para a Vibromak, era a chance de mostrar as máquinas a quem trabalha com locação.\n\nCriei a campanha com o conceito \"Força que constrói\", que apresenta os equipamentos como soluções robustas, rápidas, seguras e eficientes. Cada peça destaca uma máquina com motor VBK (placas vibratórias VK-85 e VK-120, acabadora ACV-36 e cortadoras de piso CPV-350 e CPV-460), com preço a prazo e à vista e as condições especiais do evento: descontos, parcelamento em até 12 vezes, entrega rápida e suporte especializado.\n\nAntes da feira, uma contagem regressiva com a hashtag #PresençaConfirmada aqueceu o público: story animado de 7 dias e posts de 3 dias e 1 dia.",
+   "color": "ink",
+   "image": "/uploads/f6ba9dcaa183891144b99ef0301ce75f.jpg",
+   "gallery": [
+    "/uploads/f6ba9dcaa183891144b99ef0301ce75f.jpg",
+    "/uploads/ff83f4763aed65f05663dbfe28c4cd6f.jpg",
+    "/uploads/5f09f7de06364246f99533deb005d6c7.jpg",
+    "/uploads/e628777ca57f7562517e2a6726c031a7.jpg",
+    "/uploads/dde25c3a8fcecea94692d3dcecf2959a.jpg",
+    "/uploads/ec82aa8576c7654b10b50d526e4ec1c5.jpg",
+    "/uploads/998be7a308a8f5eabac2b2d64238d69d.mp4",
+    "/uploads/8f43f55ee022d278f4e6cc33dcc3b877.jpg",
+    "/uploads/f6e215017e2e35994f0e1f8a944a9b84.jpg"
+   ],
+   "link": "",
+   "example": false,
+   "summary": "Ofertas de equipamentos e contagem regressiva da Vibromak para a ENAFRAN, em Campinas.",
+   "coverColor": "#2747A8",
+   "coverAccent": "#F5B700",
+   "coverTitle": "ENAFRAN 2026",
+   "coverMode": ""
+  },
+  {
+   "id": "mangote",
+   "title": "Mangote Vibrador: campanha de oferta",
+   "category": "Campanha",
+   "year": "2026",
+   "client": "Vibromak",
+   "summary": "Campanha de oferta do mangote vibrador da Vibromak, com duas variações de layout.",
+   "formats": "Peça de oferta 1023×1530 em duas variações de layout",
+   "description": "Campanha de oferta do mangote vibrador portátil VBP 36-25, da Vibromak, usado para adensar o concreto na obra. A peça precisava vender rápido: preço de/por para os kits de 1,20 m e 2,40 m com motor, o argumento \"Ideal para concreto mais denso, obras mais seguras e resistentes\" e a ficha técnica completa para o cliente comparar.\n\nCriei duas variações de layout com o mesmo conteúdo. Na primeira, os preços abrem a leitura e a ficha técnica fica ao lado do produto. Na segunda, preços e ficha técnica dividem o topo, e o mangote ganha mais espaço na diagonal da peça. A identidade segue a marca, com o laranja Vibromak no topo e o rodapé com site, Instagram e QR Code do catálogo.",
+   "color": "peach",
+   "image": "/uploads/fdf9fd5a73cb38a8fde763918ac3aeed.jpg",
+   "gallery": [
+    "/uploads/fdf9fd5a73cb38a8fde763918ac3aeed.jpg",
+    "/uploads/6d1bb2a825461f005c4a1f81f0290f21.jpg"
+   ],
+   "link": "",
+   "example": false,
+   "coverColor": "#F37021",
+   "coverAccent": "#1F1B1A",
+   "coverTitle": "Mangote Vibrador",
+   "coverMode": ""
+  },
+  {
+   "id": "fixados",
+   "title": "Vibromak: posts fixados do Instagram",
+   "category": "Mídias digitais",
+   "year": "2026",
+   "client": "Vibromak",
+   "summary": "Três posts fixados que apresentam a Vibromak a quem chega no perfil do Instagram.",
+   "formats": "Posts para Instagram 1080×1440",
+   "description": "Os posts fixados são a primeira coisa que alguém vê ao abrir o perfil de uma marca no Instagram. Para a Vibromak, criei três peças que resumem quem é a empresa para um visitante novo.\n\nA primeira traz o posicionamento: \"Mais que equipamentos, entregamos soluções\", com a assinatura \"É forte, é resistente, é Vibromak\". A segunda apresenta a linha de equipamentos, desenvolvida para diferentes etapas da obra. A terceira responde \"Por que escolher a Vibromak?\" com três argumentos: robustez para o dia a dia da obra, agilidade no atendimento e assistência técnica especializada.\n\nAs três seguem o mesmo sistema visual: fotos reais da operação escurecidas, títulos em branco com destaque em laranja, triângulos laranja com textura e o logo da marca. Lado a lado no perfil, formam um bloco coeso.",
+   "color": "ink",
+   "image": "/uploads/33a9532563d1645764c2bb0c5fc25291.jpg",
+   "gallery": [
+    "/uploads/33a9532563d1645764c2bb0c5fc25291.jpg",
+    "/uploads/ebbe8b693ea5b5df1a0114e81bfde100.jpg",
+    "/uploads/4e296f5e4fab220d3f2757564bc32f56.jpg"
+   ],
+   "link": "",
+   "example": false,
+   "coverColor": "#3B3936",
+   "coverAccent": "#F37021",
+   "coverTitle": "Posts fixados",
+   "coverMode": ""
+  },
+  {
+   "id": "videos",
+   "title": "Vídeos para redes sociais e chamadas",
+   "category": "Vídeos",
+   "year": "2026",
+   "client": "Vibromak",
+   "summary": "Vídeos verticais com apresentador para as redes sociais da Vibromak, incluindo chamadas para eventos.",
+   "formats": "Vídeos verticais 9:16 para Reels e stories, de 36 a 39 s",
+   "description": "Vídeos verticais para as redes sociais da Vibromak, pensados para Reels e stories. Neles, um apresentador da equipe fala direto com o público, gravado no galpão de equipamentos e na fachada da empresa, o que aproxima a marca de quem está do outro lado da tela.\n\nO primeiro vídeo é uma chamada com a data de 25 de junho em destaque. O segundo é a chamada para a AR Show, apresentada como o maior evento 100% Rental da América Latina. Os dois seguem a mesma linguagem: cortes rápidos, o logo da Vibromak fixo na parte de baixo e a assinatura animada no final.",
+   "color": "ink",
+   "image": "/uploads/41086033d883934d606d41d9da2a7ad7.jpg",
+   "gallery": [
+    "/uploads/f68162b95a461a113ad15bdb55f74103.mp4",
+    "/uploads/70650bcb96144524caba3beb68c8f5e0.mp4"
+   ],
+   "link": "",
+   "example": false,
+   "coverColor": "#E8692A",
+   "coverAccent": "#1F1B3B",
+   "coverTitle": "Vídeos",
+   "coverMode": ""
+  },
+  {
+   "id": "mfbank",
+   "title": "MF Bank: identidade visual para Instagram",
+   "category": "Mídias digitais",
+   "year": "2024",
+   "client": "MF Bank, pela agência MF Play (Grupo MF Rural)",
+   "formats": "Carrossel para Instagram 1080×1080",
+   "description": "O MF Bank é o banco digital do Grupo MF Rural, criado para o produtor rural. Dentro da agência MF Play, do próprio grupo, desenvolvi a identidade visual das redes sociais do banco.\n\nO carrossel explica a plataforma em linguagem simples: controle de clientes e inadimplência, recebimento por boleto, Pix e cartão em até 12 vezes, cartão pré-pago para funcionários e área de investimentos. O visual em preto e laranja segue a marca e usa o celular com o site como fio condutor.",
+   "color": "ink",
+   "image": "/uploads/4392cef89f8063ce885117e60b5be6b1.jpg",
+   "gallery": [
+    "/uploads/2c36309d5dd7c22d12c5421c86a1cd63.jpg",
+    "/uploads/39800392e07211af36a15642a62f1bbd.jpg",
+    "/uploads/cbb35ed4452ca8385590f830e6d48513.jpg",
+    "/uploads/8caf294cd3f4ea9e25a38215ab202a66.jpg",
+    "/uploads/fd0fe19a225fc375197fab2bf609000c.jpg"
+   ],
+   "link": "https://www.behance.net/gallery/202791475/MF-BANK-IDENTIDADE-PARA-REDE-SOCIAL",
+   "example": false,
+   "summary": "Carrossel que apresenta o MF Bank, o banco do agro, ao produtor rural no Instagram.",
+   "coverColor": "#D4501E",
+   "coverAccent": "#1F1B1A",
+   "coverTitle": "MF Bank",
+   "coverMode": ""
+  },
+  {
+   "id": "senna",
+   "title": "Ayrton Senna",
+   "category": "Ilustração",
+   "year": "2025",
+   "client": "Projeto autoral",
+   "formats": "Ilustração digital",
+   "description": "Projeto autoral, fora do trabalho com clientes. É uma ilustração digital em homenagem a Ayrton Senna: o piloto aparece de capacete e macacão de corrida, sobre um fundo com as cores da bandeira do Brasil.",
+   "color": "ink",
+   "image": "/uploads/a1cca91b1262992e77cb3b78a426c093.jpg",
+   "gallery": [],
+   "link": "https://www.behance.net/gallery/238381645/Ayrton-Senna",
+   "example": false,
+   "summary": "Ilustração digital autoral em homenagem a Ayrton Senna.",
+   "coverColor": "#C8262E",
+   "coverAccent": "#F2C516",
+   "coverTitle": "Ayrton Senna",
+   "coverMode": ""
+  },
+  {
+   "id": "triunfo",
+   "title": "Leilão Girolando Fazenda Triunfo",
+   "category": "Leilões",
+   "year": "2024",
+   "client": "MF Leilões",
+   "formats": "Peça de divulgação",
+   "description": "A MF Leilões, do Grupo MF Rural, trabalha com leilões de gado, com pré-lance e transmissão. Criada na agência MF Play, esta peça divulga a Semana Triunfo, leilão Girolando da Fazenda Triunfo com 250 vacas em lactação.\n\nA peça precisava reunir muita informação sem perder a leitura: datas, número de parcelas, frete gratuito no pré-lance, local e os logos dos parceiros do evento.",
+   "color": "sand",
+   "image": "/uploads/d680ef39724c50fd4d22dc142d0fac43.jpg",
+   "gallery": [],
+   "link": "https://www.behance.net/gallery/206988665/LEILAO-GIROLANDO-FAZENDA-TRIUNFO-MF-LEILOES",
+   "example": false,
+   "summary": "Peça de divulgação de um leilão de gado Girolando para a MF Leilões.",
+   "coverColor": "#A0582C",
+   "coverAccent": "#5A2E12",
+   "coverTitle": "Fazenda Triunfo",
+   "coverMode": ""
+  },
+  {
+   "id": "agrishow",
+   "title": "MF Rural na Agrishow 2024",
+   "category": "Campanha",
+   "year": "2024",
+   "client": "MF Rural",
+   "formats": "Peças de campanha",
+   "description": "A MF Rural é uma plataforma de compra e venda de produtos do agronegócio. Para a Agrishow 2024, em Ribeirão Preto (SP), criei na agência MF Play as peças que reforçam o tamanho da plataforma, com a marca de mais de 2 milhões de usuários cadastrados, e levam o público para o site.",
+   "color": "peach",
+   "image": "/uploads/2c142841f965f8b970417dbdf97c9491.jpg",
+   "gallery": [],
+   "link": "https://www.behance.net/gallery/202787287/MF-RURAL-AGRISHOW-2024",
+   "example": false,
+   "summary": "Campanha da MF Rural para a Agrishow 2024, uma das maiores feiras do agronegócio do Brasil.",
+   "coverColor": "#4A8B35",
+   "coverAccent": "#F08A2E",
+   "coverTitle": "Agrishow 2024",
+   "coverMode": ""
+  },
+  {
+   "id": "mogiana",
+   "title": "4º Leilão de Produção Mogiana",
+   "category": "Leilões",
+   "year": "2024",
+   "client": "MF Leilões",
+   "formats": "Peça de divulgação",
+   "description": "Peça criada na agência MF Play para o 4º Leilão de Produção Mogiana, de Nelore Pintado e Padrão, divulgado pela MF Leilões.\n\nA hierarquia destaca primeiro o leilão e a data e depois as condições que ajudam a vender: 40 parcelas, bônus de frete para quem der pré-lance e os programas de avaliação dos animais. No rodapé ficam os promotores, a assessoria e os contatos.",
+   "color": "blush",
+   "image": "/uploads/be2aa18bfb3b1c4302666da9f75ec7a9.jpg",
+   "gallery": [],
+   "link": "https://www.behance.net/gallery/202709233/4-Leilao-de-Producao-Mogiana-MF-Leiloes",
+   "example": false,
+   "summary": "Peça de leilão de gado Nelore para a MF Leilões, com as condições em destaque.",
+   "coverColor": "#2B7A55",
+   "coverAccent": "#F2C516",
+   "coverTitle": "Leilão Mogiana",
+   "coverMode": ""
+  },
+  {
+   "id": "mf19",
+   "title": "19 anos MF Rural",
+   "category": "Campanha",
+   "year": "2024",
+   "client": "Grupo MF Rural",
+   "formats": "Peça comemorativa",
+   "description": "Em 2024, o Grupo MF Rural completou 19 anos. Na agência MF Play, criei a peça comemorativa com o tema \"Abrindo o caminho para o agro crescer\". O número 19 vira uma estrada aberta por um trator, sobre uma textura de juta que remete ao campo.",
+   "color": "rose",
+   "image": "/uploads/3fdb740c90e716b28259250581a57885.jpg",
+   "gallery": [],
+   "link": "https://www.behance.net/gallery/194201229/19-ANOS-MF-RURAL",
+   "example": false,
+   "summary": "Peça comemorativa dos 19 anos do Grupo MF Rural.",
+   "coverColor": "#C46A2B",
+   "coverAccent": "#2E7D32",
+   "coverTitle": "19 anos MF Rural",
+   "coverMode": ""
+  },
+  {
+   "id": "diadecampo",
+   "title": "Flyer MF Leilões: primeiro dia de campo",
+   "category": "Impresso",
+   "year": "2023",
+   "client": "MF Rural e MF Leilões",
+   "formats": "Flyer impresso",
+   "description": "O primeiro dia de campo da MF Rural reuniu o público do agro em um evento presencial. Para ele, criei na agência MF Play um flyer impresso com as 9 vantagens de fazer negócios com o MF Leilões, com QR Code para levar o leitor ao site.",
+   "color": "pink",
+   "image": "/uploads/115b0a7cd0c0da9b7d2890a6898cd1f3.jpg",
+   "gallery": [],
+   "link": "https://www.behance.net/gallery/184904867/FLYER-MF-RURAL-MF-LEILOES-PRIMEIRO-DIA-DE-CAMPO",
+   "example": false,
+   "summary": "Flyer impresso com as vantagens de negociar no MF Leilões, feito para um dia de campo.",
+   "coverColor": "#F28C3C",
+   "coverAccent": "#3A3A3A",
+   "coverTitle": "Dia de Campo",
+   "coverMode": ""
+  }
+ ],
+ "tools": [
+  "Adobe Photoshop",
+  "Adobe Illustrator",
+  "Adobe InDesign",
+  "Adobe Premiere Pro",
+  "Figma",
+  "Canva"
+ ],
+ "areas": [
+  "Produção publicitária",
+  "Direção de arte",
+  "Marketing de varejo",
+  "Mídias digitais",
+  "Design gráfico",
+  "Design para games"
+ ],
+ "contacts": [
+  {
+   "id": "c1",
+   "label": "E-mail",
+   "value": "",
+   "url": ""
+  },
+  {
+   "id": "c2",
+   "label": "Instagram",
+   "value": "",
+   "url": ""
+  },
+  {
+   "id": "c3",
+   "label": "LinkedIn",
+   "value": "",
+   "url": ""
+  },
+  {
+   "id": "c4",
+   "label": "WhatsApp",
+   "value": "",
+   "url": ""
+  },
+  {
+   "id": "c5",
+   "label": "Behance",
+   "value": "behance.net/gabrielalopes13",
+   "url": "https://www.behance.net/gabrielalopes13"
+  }
+ ]
+}
